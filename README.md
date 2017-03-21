@@ -1,6 +1,5 @@
 [![GitHub issues](https://img.shields.io/github/issues/gdmec07150832/vuxweather.svg)](https://github.com/gdmec07150832/vuxweather/issues)
-.. image:: https://img.shields.io/github/issues/gdmec07150832/vuxweather.svg   :target: https://github.com/gdmec07150832/vuxweather/issues
-# cd
+
 
 > vuxprj
 

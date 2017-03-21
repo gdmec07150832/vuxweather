@@ -1,14 +1,5 @@
-[![GitHub stars]
-(https://img.shields.io/github/stars/gdmec07150832/vuxweather.svg)]
-(https://github.com/gdmec07150832/vuxweather/stargazers)
-
-[![GitHub issues]
-(https://img.shields.io/github/issues/gdmec07150832/vuxweather.svg)]
-(https://github.com/gdmec07150832/vuxweather/stargazers)
-
-[![GitHub forks]
-(https://img.shields.io/github/forks/gdmec07150832/vuxweather.svg)]
-(https://github.com/gdmec07150832/vuxweather/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/gdmec07150832/vuxweather.svg)](https://github.com/gdmec07150832/vuxweather/issues)
+.. image:: https://img.shields.io/github/issues/gdmec07150832/vuxweather.svg   :target: https://github.com/gdmec07150832/vuxweather/issues
 # cd
 
 > vuxprj
